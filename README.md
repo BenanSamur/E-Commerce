@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # E-Commerce
 Project Objectives
 User Friendly Interface: Simple, clean and easy to understand design.
