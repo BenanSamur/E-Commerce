@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce
 Project Objectives
 User Friendly Interface: Simple, clean and easy to understand design.
@@ -25,3 +26,6 @@ and log in.
 ```bash
 git clone https://github.com/BenanSamur/E-Commrce
 
+=======
+This is the main branch for E-Commerce Project
+>>>>>>> 0a23b0c (Initialize main branch with README.md)
