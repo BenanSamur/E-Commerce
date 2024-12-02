@@ -17,8 +17,9 @@ The basic pages you need to create:
 Home Page (index.html): Categories and product list.
 Product Page (product.html): Details of the selected product.
 Cart (cart.html): Viewing the added products and purchasing process.
-User Login/Registration Page (login.html): Users can create an account and log in.
-1.⁠ ⁠Clone this repository:
+User Login/Registration Page (login.html): Users can create an account and 
+log in.
+2.⁠ ⁠Clone this repository:
    
 bash
    git clone https://github.com/BenanSamur/E-Commerce
